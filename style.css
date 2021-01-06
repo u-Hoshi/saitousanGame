@@ -1,4 +1,10 @@
 body {
   width: 80%;
+  margin: 0 auto;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
 }
 /*# sourceMappingURL=style.css.map */
